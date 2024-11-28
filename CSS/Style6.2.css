@@ -1,0 +1,50 @@
+#p1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+#T1{
+    color:rgb(29, 6, 240);
+    background-color: rgb(233, 23, 8);
+    text-align: center;
+    
+}
+#P4 {
+       max-width: 3.5em;
+       max-width: 10%;
+}
+#p3 {
+    width: 120px;
+}
+#T1 {
+    font-size: 20pt;
+    font-style: italic;
+}
+#T2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+#T1 {
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+#p1 {
+    height: 20px;
+}
+#foto {
+    background-image: url(/imagenes/spiderman-suit-icon-logo-super-600w-2407844867.webp);
+    background-repeat: no-repeat;
+    background-position: 2em 1.5cm;
+    background-attachment: fixed;
+}
+#t3 {
+    border-top: 1px solid #C00;
+    border-bottom: 1px solid #C00;
+    border-bottom: 1px solid #C00;
+}
+#p1{
+    color: rgb(13, 13, 14);
+    background-color: rgb(12, 8, 241);
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+#ext{ 
+    width: 500px;
+    background-color: black;
+    border: 4px dotted blue;
+    margin: 10px;
+    padding: 10px;
+}
+#int{
+    width: 250px;
+    background-color: grey;
+    border: 4px dotted yellow;
+    overflow: hidden;
+    margin: 10px;
+    padding: 10px;
+}
+#imgs{
+    width: 250px;
+}
